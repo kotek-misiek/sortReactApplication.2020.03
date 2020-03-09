@@ -1,0 +1,41 @@
+th {
+    text-align: left;
+}
+
+td {
+    vertical-align: top;
+}
+
+div {
+    padding: 3px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 8px 0;
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+textarea {
+    width: 600px;
+    height: 390px;
+    border: 1px solid black;
+}
+
+button {
+    width: 100%;
+    height: 40px;
+}
